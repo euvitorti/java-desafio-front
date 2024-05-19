@@ -24,3 +24,6 @@ Após a finalização do desafio, seu projeto estará completo e a aplicação i
 
 
 # Bom desafio!
+
+# Repositório do código fonte da aplicação java
+- Link: https://github.com/euvitorti/frasesFamosas
